@@ -1,7 +1,11 @@
-PROPIEDAD INTELECTUAL Y DERECHOS DE AUTOR RESERVADOS
+PROPIEDAD INTELECTUAL Y DERECHOS DE AUTOR
+=========================================
 
-(c) 2026 Aritz Bahamonde Larxé. Todos los derechos reservados.
+© 2026 Aritz Bahamonde Larxé. Todos los derechos reservados.
 
-Queda estrictamente prohibida la reproducción, distribución, comercialización,
-ingeniería inversa o modificación total o parcial de este software sin la
-autorización expresa y por escrito de su titular.
+Queda estrictamente prohibida la reproducción total o parcial de este software,
+así como su distribución, comercialización, descompilación, ingeniería inversa
+o modificación sin la autorización expresa y por escrito del titular legítimo
+de los derechos: Aritz Bahamonde Larxé.
+
+Este software es propiedad privativa y exclusiva.

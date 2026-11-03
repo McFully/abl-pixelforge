@@ -4,7 +4,7 @@
   "description": "Compresor y optimizador profesional de imágenes para Windows 11 desarrollado por Aritz Bahamonde Larxé.",
   "main": "src/main/index.js",
   "author": "Aritz Bahamonde Larxé",
-  "license": "SEE LICENSE IN LICENSE.txt",
+  "license": "UNLICENSED",
   "type": "commonjs",
   "scripts": {
     "dev:renderer": "vite --config vite.config.mjs",
